@@ -47,3 +47,6 @@ Have a bug or an issue with this theme? [Open a new issue](https://github.com/Gi
 ## Copyright and License
 
 Copyright 2023 This project is licensed under the MIT License. You are free to modify, distribute, and use the code for personal or commercial purposes.
+
+
+![Example Image](./screenshot/Screenshot.jpg)
