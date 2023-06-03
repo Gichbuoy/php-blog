@@ -1,6 +1,6 @@
-# [Sips & Stories] (https://sips-and-stories.000webhostapp.com/index.php)
+# [Sips & Stories](https://sips-and-stories.000webhostapp.com/index.php)
 
-* This is a members-only blog website created using PHP and MySQL. It allows registered users to create, view, and comment on blog posts. Non-registered users can only view the posts but cannot create or comment on them.
+* This is a members-only blog website called (Sips & Stories) created using PHP and MySQL. It allows registered users to create, view, and comment on blog posts. Non-registered users can only view the posts but cannot create or comment on them.
 
 
 
@@ -15,10 +15,10 @@ To use this theme, choose one of the following options to get started:
 ## Requirements
 To run this website, you will need the following:
 
-PHP (version 8 )
-MySQL (version 5.6 or higher)
-Web server (e.g., Apache, Xampp)
-Any modern web browser
+* PHP (version 8 )
+* MySQL (version 5.6 or higher)
+* Web server (e.g., Apache, Xampp)
+* Any modern web browser
 
 
 ### Installation
