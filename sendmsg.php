@@ -15,7 +15,7 @@ if ($mysqli->connect_error) {
 // request data using POST method, and store data in 3 variables
 $fname = mysqli_real_escape_string($mysqli, $_POST['fname']);
 $email = mysqli_real_escape_string($mysqli, $_POST['email']);
-$message= mysqli_real_escape_string($mysqli, $_POST['message']);  // escape string prevents sql injection - additional layer of security
+$message= mysqli_real_escape_string($mysqli, $_POST['message']);  // escape string prevents sql injection - just an additional layer of security
 
 // variable that defines recipient email address
 $email2 = "lexizgichbuoy@gmail.com";
