@@ -1,6 +1,6 @@
 <?php
 
-// file responsible for validating contact form data
+// file responsible for validating data from contact form 
 //   and transmitting email using SMTP (Simple_Mail_Transfer_Protocal) protocal
 
 
