@@ -37,7 +37,7 @@
 
     <?php
 		
-        if (isset($_GET["logout"])) {   //check if variable logout is contained in url using GET
+        if (isset($_GET["logout"])) {   //check if the variable logout is contained in url using GET
             
             if ($_GET["logout"] == "true") { ?>
                 
